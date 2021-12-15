@@ -1,7 +1,3 @@
-package me.whoknows.colourcodeez;
-
-public class Utils {
-
     public static final char COLOR_CHAR = '\u00A7';
 
     public static String translateAlternateColorCodes(char altColorChar, String textToTranslate) {
@@ -20,6 +16,4 @@ public class Utils {
         return translatedText;
     }
 
-    private final String example = Utils.ChatColor("");
-
-}
+    private final String example = Utils.ChatColor("&4This will be dark red!");
