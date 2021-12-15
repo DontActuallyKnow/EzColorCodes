@@ -1,5 +1,3 @@
-package me.DontActuallyKnow.SkyblockUltra;
-
 import org.apache.commons.lang3.Validate;
 
 public class Utils {
