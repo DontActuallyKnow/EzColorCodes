@@ -1,8 +1,8 @@
 <h1 align="center"> EzColorCodes </h1>
 
-<h2 align="center"> Version: SNAPSHOT-1.0 </h2>
+Version: 1.0
 
-##How to use!
+<h2 align="left"> How to use! </h2>
 
 1) Download or copy (CTRL+V) the code from Code.java
 2) Paste this into any file located inside your forge mod
